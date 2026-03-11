@@ -35,6 +35,7 @@ I also have experience developing **geospatial web applications** using technolo
 # 📫 Contact
 
 💼 LinkedIn: https://linkedin.com/in/decioneto 
+
 📧 Email: decio.neeto@gmail.com
 
 ---
